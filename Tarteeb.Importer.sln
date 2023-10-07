@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarteeb.Importer", "Tarteeb.Importer\Tarteeb.Importer.csproj", "{52E69524-DA37-4F22-A883-64CFE2A3867B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E69524-DA37-4F22-A883-64CFE2A3867B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E69524-DA37-4F22-A883-64CFE2A3867B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E69524-DA37-4F22-A883-64CFE2A3867B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E69524-DA37-4F22-A883-64CFE2A3867B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B474E7CA-CA45-4B97-AD8D-63992DAA4C95}
+	EndGlobalSection
+EndGlobal
